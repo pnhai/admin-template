@@ -1,0 +1,28 @@
+.logo {
+  img {
+    max-width: 100px;
+    max-height: 35px;
+  }
+}
+
+.site-layout .site-layout-background {
+  background: #fff;
+}
+
+.account-logo {
+  background-color: #e5e5e5;
+  display: flex;
+  -webkit-box-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  border-radius: 9999px;
+  border-width: 1px;
+  padding: 4.8px;
+}
+
+.sidebar-layout {
+  padding: 5px 10px !important;
+}

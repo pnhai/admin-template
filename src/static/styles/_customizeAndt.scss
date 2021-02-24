@@ -1,0 +1,24 @@
+.ant-form-item-label > label {
+  color: white !important;
+}
+
+// button {
+//   outline: none;
+// }
+.ant-menu-inline-collapsed {
+  width: 36px;
+}
+
+.ant-menu-inline,
+.ant-menu-vertical,
+.ant-menu-vertical-left {
+  border: none;
+}
+
+.custom-anticon .anticon {
+  vertical-align: 0.125em;
+}
+
+.ant-menu-inline-collapsed > .ant-menu-item .anticon {
+  line-height: 32px;
+}
